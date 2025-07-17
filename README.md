@@ -53,7 +53,7 @@ To set up Beta-AI on your local machine, follow these steps:
 3. **Install Dependencies**:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r ./requirements.txt
    ```
 
 4. **Run the Application**:
