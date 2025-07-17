@@ -10,7 +10,7 @@ Beta-AI is a versatile artificial intelligence application designed to enhance p
 - **Document & Presentation Generation**: Automatically create and save documents and presentations.
 - **Image Generation**: Generate images based on conversational prompts.
 - **Real-Time Knowledge Access**: Retrieve the latest information using integrated search capabilities.
-- **Video Playback**: Play videos from platforms like YouTube and LinkedIn by providing relevant keywords or video titles.
+- **Video Playback**: Play videos from platforms like YouTube and all the way till Linkedin anything on the internet is searchable and playable, just by Asking in Natural Language.
 
 ## Features
 
