@@ -1,4 +1,6 @@
 
+*ONLY WORKS ON FIRST RELEASE OF PYTHON 3.9*
+
 # Beta-AI
 
 **An All-in-One AI Productivity Suite**
@@ -34,12 +36,12 @@ To set up Beta-AI on your local machine, follow these steps:
 
 2. **Set Up Environment Variables**:
 
-   Create a `.env` file in the root directory and add the following variables:
+   Fill the details in the `.env` file in the root directory and add the following variables:
 
    ```env
-   COHERE_API_KEY=your_cohere_api_key
-   GROQ_API_KEY=your_groq_api_key
-   HF_API_KEY=your_huggingface_api_key
+   CohereAPIKey=your_cohere_api_key
+   GroqAPIKey=your_groq_api_key
+   HuggingFaceAPIKey=your_huggingface_api_key
    ```
 
    Replace `your_cohere_api_key`, `your_groq_api_key`, and `your_huggingface_api_key` with your actual API keys.
