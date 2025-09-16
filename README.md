@@ -70,19 +70,6 @@ To set up Beta-AI on your local machine, follow these steps:
 
 Upon running the application, you can interact with Beta-AI through its user interface. Input your commands or prompts, and Beta-AI will process them using its integrated AI models and provide the desired outputs.
 
-## Contributing
-
-We welcome contributions to Beta-AI! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature-name`).
-6. Create a new Pull Request.
-
-Please ensure that your contributions align with the project's goals and adhere to the coding standards.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
